@@ -1,0 +1,72 @@
+[
+ {
+   "TimeGenerated": "5/13/2022, 9:28:14.795 AM",
+   "OperationName": "GetBlob",
+   "DurationMs": 8279,
+   "ServerLatencyMs": 68,
+   "ClientLatencyMs": 8211
+ },
+ {
+   "TimeGenerated": "5/13/2022, 9:22:24.315 AM",
+   "OperationName": "GetBlob",
+   "DurationMs": 1417,
+   "ServerLatencyMs": 38,
+   "ClientLatencyMs": 1379
+ },
+ {
+   "TimeGenerated": "5/6/2022, 11:24:05.535 AM",
+   "OperationName": "GetBlobServiceProperties",
+   "DurationMs": 1002,
+   "ServerLatencyMs": 1002,
+   "ClientLatencyMs": 0
+ },
+ {
+   "TimeGenerated": "5/9/2022, 4:46:01.113 AM",
+   "OperationName": "GetBlobServiceProperties",
+   "DurationMs": 888,
+   "ServerLatencyMs": 888,
+   "ClientLatencyMs": 0
+ },
+ {
+   "TimeGenerated": "5/13/2022, 9:29:14.250 AM",
+   "OperationName": "GetBlob",
+   "DurationMs": 868,
+   "ServerLatencyMs": 52,
+   "ClientLatencyMs": 816
+ },
+ {
+   "TimeGenerated": "5/16/2022, 4:33:28.985 AM",
+   "OperationName": "GetBlob",
+   "DurationMs": 866,
+   "ServerLatencyMs": 780,
+   "ClientLatencyMs": 86
+ },
+ {
+   "TimeGenerated": "5/6/2022, 8:49:41.818 AM",
+   "OperationName": "GetBlobServiceProperties",
+   "DurationMs": 864,
+   "ServerLatencyMs": 863,
+   "ClientLatencyMs": 1
+ },
+ {
+   "TimeGenerated": "5/16/2022, 4:33:39.608 AM",
+   "OperationName": "GetBlob",
+   "DurationMs": 805,
+   "ServerLatencyMs": 68,
+   "ClientLatencyMs": 737
+ },
+ {
+   "TimeGenerated": "5/13/2022, 9:24:18.539 AM",
+   "OperationName": "GetBlob",
+   "DurationMs": 729,
+   "ServerLatencyMs": 667,
+   "ClientLatencyMs": 62
+ },
+ {
+   "TimeGenerated": "5/16/2022, 4:06:44.150 AM",
+   "OperationName": "GetBlobServiceProperties",
+   "DurationMs": 689,
+   "ServerLatencyMs": 689,
+   "ClientLatencyMs": 0
+ }
+]
